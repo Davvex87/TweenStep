@@ -5,7 +5,7 @@
 TweenStep is an advanced and better alternative to roblox's [TweenService]("https://create.roblox.com/docs/reference/engine/classes/TweenService")
 
 * [Documentation](https://github.com/Davvex87/TweenStep/wiki/Getting-Started)
-* [Roblox Devforum](https://www.youtube.com/)
+* [Roblox Devforum](https://devforum.roblox.com/t/tweenstep-make-the-tweens-of-your-dreams/2275064)
 
 ## Features and stuff to do
  - [x] Play, Pausing and Stopping tweens with one simple line of code
