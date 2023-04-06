@@ -4,16 +4,15 @@
 # TweenStep
 TweenStep is an advanced and better alternative to roblox's [TweenService]("https://create.roblox.com/docs/reference/engine/classes/TweenService")
 
-* [Documentation](https://www.youtube.com/)
-* [Latest release](https://www.youtube.com/)
+* [Documentation](https://github.com/Davvex87/TweenStep/wiki/Getting-Started)
 * [Roblox Devforum](https://www.youtube.com/)
 
 ## Features and stuff to do
- - [x] Supports all your ``TweenInfo.new()`` arguments, including but not limited to ``repeatCount``, ``reverse`` and ``delay``
- - [x] Play, Pausing and Stopping tweens with 1 simple line of code
- - [x] 1 time use Tween() function for ease of scripting
+ - [x] Play, Pausing and Stopping tweens with one simple line of code
+ - [x] Single time use Tween() function for ease of scripting
  - [x] Custom easing styles
  - [x] Changing tween properties while the tween is running
+ - [ ] Support all your ``TweenInfo.new()`` arguments, including but not limited to ``repeatCount``, ``reverse`` and ``delay``
  - [ ] Tweening models
  - [ ] Tweening models size
  - [ ] Tweening Color3Sequences and NumberSequences
