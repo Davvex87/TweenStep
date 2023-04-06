@@ -1,5 +1,5 @@
 #### License and usage
-##### This project is licensed under the [MIT license](LICENSE), you are allowed to copy, modify, merge, publish, distribute, sublicense and freely use this resource in ##### your projects, **no credits are required**, but it would be nice to do so :)
+##### This project is licensed under the [MIT license](LICENSE), you are allowed to copy, modify, merge, publish, distribute, sublicense and freely use this resource in your projects, **no credits are required**, but it would be nice to do so :)
 
 # TweenStep
 TweenStep is an advanced and better alternative to roblox's [TweenService]("https://create.roblox.com/docs/reference/engine/classes/TweenService")
@@ -17,6 +17,5 @@ TweenStep is an advanced and better alternative to roblox's [TweenService]("http
  - [ ] Tweening models
  - [ ] Tweening models size
  - [ ] Tweening Color3Sequences and NumberSequences
- - [ ] Tween override when a new tween with the same instance is declared
  - [ ] All client tweens perfectly synched with server tweens
  - [ ] Debuging mode (no debubing cus i'm too lazy to make a proper debug feature)
